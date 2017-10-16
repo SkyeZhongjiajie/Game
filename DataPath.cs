@@ -1,6 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections;
-
+/// <summary>
+/// ///
+/// </summary>
 public class DataPath : MonoBehaviour {
 
 	// Use this for initialization
